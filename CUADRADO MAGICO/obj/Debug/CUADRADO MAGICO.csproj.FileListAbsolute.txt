@@ -1,0 +1,7 @@
+C:\Sena\Fundamentos de programación\PRIMER TRIMESTRE\C#\CUADRADO MAGICO\CUADRADO MAGICO\obj\Debug\CUADRADO MAGICO.csprojAssemblyReference.cache
+C:\Sena\Fundamentos de programación\PRIMER TRIMESTRE\C#\CUADRADO MAGICO\CUADRADO MAGICO\obj\Debug\CUADRADO MAGICO.csproj.CoreCompileInputs.cache
+C:\Sena\Fundamentos de programación\PRIMER TRIMESTRE\C#\CUADRADO MAGICO\CUADRADO MAGICO\bin\Debug\CUADRADO MAGICO.exe.config
+C:\Sena\Fundamentos de programación\PRIMER TRIMESTRE\C#\CUADRADO MAGICO\CUADRADO MAGICO\bin\Debug\CUADRADO MAGICO.exe
+C:\Sena\Fundamentos de programación\PRIMER TRIMESTRE\C#\CUADRADO MAGICO\CUADRADO MAGICO\bin\Debug\CUADRADO MAGICO.pdb
+C:\Sena\Fundamentos de programación\PRIMER TRIMESTRE\C#\CUADRADO MAGICO\CUADRADO MAGICO\obj\Debug\CUADRADO MAGICO.exe
+C:\Sena\Fundamentos de programación\PRIMER TRIMESTRE\C#\CUADRADO MAGICO\CUADRADO MAGICO\obj\Debug\CUADRADO MAGICO.pdb
